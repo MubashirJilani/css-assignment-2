@@ -1,0 +1,19 @@
+.head{
+    background-color: lightpink;
+    color: brown;
+    padding:5px;
+    margin: 0px;
+    text-align: center;
+}
+.blank{
+    background-color: black;
+    padding: 12px;
+    margin: 0px;
+}
+.unorder{
+    background-color: black;
+    padding: 20px;
+    margin: 0px;
+    color: aliceblue;
+    text-align: center;
+}
